@@ -1,3 +1,3 @@
-## Starfyre_Syntax.vim
+## vim-starfyre
 
 A Vim plugin for syntax highlighting Starfyre files.
